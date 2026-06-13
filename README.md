@@ -1,5 +1,5 @@
 
-- License and Usage terms -
+-License and Usage terms-
 
 Super Mario Bros. Funk Mix - Daredevil Edition is licensed under a Creative Commons Attribution 4.0 International License.
 
