@@ -1,0 +1,9 @@
+{
+	"name": "Super Mario Bros. Funk Mix - Daredevil Edition",
+	"description": "\"Don't fall for the wrong plumber!\"\nA Complete Overhaul of the Super Mario Bros. Funk Mix mod we all know and love, with Improved Visuals, Remastered Songs(even New ones!), and more!\nAre you up to the challenge?\n\n\nVersion 0.1.0 | Pre-Alpha/Showcase",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [255, 46, 63],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 1
+}
